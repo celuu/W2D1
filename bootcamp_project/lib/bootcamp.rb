@@ -68,7 +68,5 @@ class Bootcamp
         end
         nil
     end
-
-
   
 end
